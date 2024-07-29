@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cms
+  annotations:
+    github.com/project-slug: YashrajPawar/cms
+spec:
+  type: other
+  lifecycle: unknown
